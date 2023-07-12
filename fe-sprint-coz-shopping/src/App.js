@@ -1,8 +1,13 @@
+import Main from './page/Main'
+import "./base.css"
+
+
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-       초기설정
+        <Main>
+        </Main>
       </header>
     </div>
   );
