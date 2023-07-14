@@ -1,6 +1,6 @@
 import './header.css';
 
-function Main() {
+function Header() {
   return (
     <header className="header-container">
       <div className='logo-container'>
@@ -14,4 +14,4 @@ function Main() {
   );
 }
 
-export default Main;
+export default Header;
