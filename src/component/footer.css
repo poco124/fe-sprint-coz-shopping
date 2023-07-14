@@ -1,0 +1,24 @@
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  min-width: 1280px;
+  height: 58px;
+  padding:0 76px ;
+  position: sticky;
+  box-shadow: 0px -1px 0px 1px rgba(0, 0, 0, 0.25);
+}
+
+span.footer1{
+  font-size: 1rem;  
+  padding-left:12px;
+  color:grey;
+}
+span.footer2{
+  font-size: 1rem;  
+  padding-left:12px;
+  color:grey;
+}
+
